@@ -1,4 +1,4 @@
-#(C)Inspire Search 2020 Coded by Tsubasa Kato on April 22nd, 2020.
+#(C)Inspire Search Corporation 2020 Coded by Tsubasa Kato on April 22nd, 2020.
 import spacy
 nlp = spacy.load('ja_ginza')
 
