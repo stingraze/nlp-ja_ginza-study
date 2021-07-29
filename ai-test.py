@@ -1,4 +1,4 @@
-#When faced with error, I had to update pip and install python-devel via yum (CentOS 7)
+#When faced with several errors, upon running, I had to update pip and install python3-devel via yum (CentOS 7)
 #Most of code from sample at: https://www.megagon.ai/jp/blog/ginza-version-4-0/
 import spacy
 import ginza
